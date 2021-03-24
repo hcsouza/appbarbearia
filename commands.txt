@@ -1,0 +1,8 @@
+1 - abre emulador pelo android studio
+2 - comando para listar-   adb devices
+3 - iniciaApp: react-native start
+4 - reload da app no emulador:  npx react-native run-android
+
+
+
+https://react-native.rocketseat.dev/erros/android

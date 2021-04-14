@@ -4,5 +4,6 @@
 4 - reload da app no emulador:  npx react-native run-android
 
 
+https://react-native.rocketseat.dev/
 
 https://react-native.rocketseat.dev/erros/android
